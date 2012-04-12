@@ -1,0 +1,1 @@
+Hi, this is my first day with GIT
